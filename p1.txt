@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 studentss
 =======
 hello
 >>>>>>> c20607b (msg)
+=======
+hello
+>>>>>>> main
